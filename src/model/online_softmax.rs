@@ -1,4 +1,3 @@
-
 pub struct OnlineSoftmax {
     pub max: f32,
     pub sum: f32,
